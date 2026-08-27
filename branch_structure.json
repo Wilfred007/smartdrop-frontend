@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/history-mobile-card-layout",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/history-mobile-card-layout": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/history-mobile-card-layout",
+    "origin"
+  ]
+}
